@@ -17,5 +17,4 @@
 
 	add_action('wp_enqueue_scripts', 'university_files'); #Cargamos los CSS y JS
 	add_action('after_setup_theme', 'university_features'); #Cargamos el hooks para le titulo de las pestañas
-	
 ?> 
